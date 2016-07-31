@@ -6,8 +6,6 @@ AAD Lab.4 Assignment (Th. Class: 16-Apr-16)
 ## This is an  tag
  **This is an tag**
  
- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
- 
  *_You **can** combine them_
   * First bullet
   * Second bullet
